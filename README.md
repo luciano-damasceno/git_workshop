@@ -2,4 +2,4 @@
 
 This repository is meant to be used as an example of a git workshop.
 
-This is a simulation of a simple merge.
+This is a simulation of a merge with --no-ff.
