@@ -7,3 +7,5 @@ This is a simulation of a merge with --no-ff.
 Essa linha deveria gerar um conflito.
 
 Modificação que não subiu para produção.
+
+Gerando mais um conflito em stg.
